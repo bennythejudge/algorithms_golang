@@ -52,7 +52,7 @@ func main() {
   fmt.Println()
   fmt.Println()
 
-  fmt.Println("unsorted array ")
+  fmt.Println("reverse sorted array - worst case")
   fmt.Println(worst_case)
 
   sorted_array, loop_count, swap_counter = bubble_sort(worst_case)
