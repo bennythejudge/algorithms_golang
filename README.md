@@ -2,6 +2,8 @@
 
 ## bubblesort
 
+- the counters I get do not make sense with the expected complexity of O(n^2). Investigate.
+
 ```
 ✔ neo:golang [ master ✭ | …4 ] ➭ time ./bubblesort
 Bubble sort examples in Go
