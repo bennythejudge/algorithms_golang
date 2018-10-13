@@ -1,5 +1,7 @@
 # Algorithms in Golang
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/algorithms_golang.svg)](https://www.guardrails.io)
+
 ## bubblesort
 
 - the counters I get do not make sense with the expected complexity of O(n^2). Investigate.
